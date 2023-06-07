@@ -1,0 +1,6 @@
+﻿  3dworld.cpp
+C:\Users\Acer User\source\repos\3dworld\3dworld.cpp(33,46): warning C4305:  'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Acer User\source\repos\3dworld\3dworld.cpp(42,15): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Acer User\source\repos\3dworld\3dworld.cpp(65,32): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Acer User\source\repos\3dworld\3dworld.cpp(65,19): warning C4244:  'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  3dworld.vcxproj -> C:\Users\Acer User\source\repos\3dworld\Debug\3dworld.exe
